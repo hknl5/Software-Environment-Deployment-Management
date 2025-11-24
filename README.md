@@ -11,15 +11,6 @@ You can think of it as:
 > **Software Environment & Deployment Management**  
 > (how we manage environments + how code moves between them).
 
-The developer doesn’t just “write code”. They have to decide:
-
-- Which Python environment?
-- Local machine or Docker?
-- Colab or a GPU VM?
-- Dev, staging, or production?
-- GitHub Actions or Jenkins?
-
-
 The goal of this repo is to connect all the pieces in one narrative:  
 from `venv` and `conda`, to Docker, VMs, cloud notebooks, CI runners, and Terraform –  
 
