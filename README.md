@@ -2,7 +2,6 @@
   <img src="img/header.png" width="960"/>
 </p>
 
-# Software Environment Management
 
 > A practical tour of how developers control **where** code runs, **which** dependencies it sees, and **how** it moves from laptop to production.
 
